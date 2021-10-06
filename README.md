@@ -50,6 +50,7 @@ Conslusion: 1. the minimum year length of registration is 7 years while the long
 # 3. Relevant and visualization
 
 ## 3.1 Observe the relationship between age and other users’ personal information
+![3.1heatmap-view](img/3.1.png) 
 
 Conclusion: 
  - 1. The user’s age is positively correlated with the variables of language_en and children, indicating that Airbnb is more popular in families with higher age, higher frequency of using English and more children. 
@@ -59,12 +60,13 @@ Conclusion:
 
 
 ## 3.2 Observe the relationship between age and the user's ordering channel and gender
+![3.2heatmap-view](img/3.2heatmap.png) 
 
 Conclusion: 
 - 1. As age increases, users will be more inclined to order on the computers.
 - 2. Elder users tend to order on android phones while younger users tend to order on iPhones.
 - 3. Male users prefer to order on the webpages, and they don’t like to order on Android phones.
-- 4. The correlation between age and the user's ordering channel and gender is too weak, which is of little significance for subsequent analysis
+- 4. The correlation between age and the user's ordering channel and gender is too weak, which is of little significance for subsequent analysis.
 
 
 # 4. Model establishment and evaluation
@@ -90,7 +92,7 @@ There are only two dimensions of 0 and 1 in ios, so its visualization is not goo
 - cluster 1 prefer order on webpage,less on android phoens.
 - cluster 2 do not like order on webpages.
 - cluster 3 prefer ios, very few order on webpages
-- age of cluster 4 is eldest, and cluster 4 and 0 data distinction is very small, which is of little significance to actual analysis
+- age of cluster 4 is eldest, and cluster 4 and 0 data distinction is very small, which is of little significance to actual analysis.
 
 ## 5 Summarize 
 - Pay attention to the heavy Airbnb users who are 28-32 years old and registered year for 6-7 years, and develop corresponding marketing strategies for customers with low responsiveness. 
