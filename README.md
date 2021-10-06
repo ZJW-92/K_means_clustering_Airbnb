@@ -94,7 +94,7 @@ There are only two dimensions of 0 and 1 in ios, so its visualization is not goo
 - cluster 3 prefer ios, very few order on webpages
 - age of cluster 4 is eldest, and cluster 4 and 0 data distinction is very small, which is of little significance to actual analysis.
 
-## 5 Summarize 
+# 5 Summarize 
 - Pay attention to the heavy Airbnb users who are 28-32 years old and registered year for 6-7 years, and develop corresponding marketing strategies for customers with low responsiveness. 
 
 - The user’s age is positively correlated with the variables of language_en and children, indicating that Airbnb is more popular in families with higher age, higher frequency of using English and more children. 
